@@ -1,10 +1,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaykumar200599&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaykumar200599" /> </p>
-<h1 align="center">Hi 👋, I'm Sanjay Kumar</h1>
-<h3 align="center">🤖 A Passionate Software Developer and AIML enthusiast.</h3>
-<h3 align="center">🔭 Currently exploring the world of AI, ML with projects focused on GenAI Technologies.</h3>
-<h3 align="center">💡I enjoy learning new technologies, contributing to open-source, writing clean, and maintainable code.</h3><br>
+<h1 align="center">Hi 👋, I'm itheesh M B</h1>
+<h3 align="center">💻 Aspiring Software Developer passionate about building scalable and impactful applications.</h3>
+<h3 align="center">🚀 Currently exploring Backend Development, Microservices, Cloud Technologies, and GenAI Technologies.</h3>
+<h3 align="center">💡 I enjoy learning new technologies, solving challenging problems, and building innovative solutions that create real-world impact.</h3><br>
 # 💫 About Me:
-Hi 👋, I'm Nitheesh M B<br><br>💻 Aspiring Software Developer passionate about building scalable and impactful applications.<br><br>🚀 Currently exploring Backend Development, Microservices, Cloud Technologies, and GenAI Technologies.<br><br>💡 I enjoy learning new technologies, solving challenging problems, and building innovative solutions that create real-world impact.<br><br>🌱 I’m currently learning Spring Boot, Microservices, and Cloud Technologies<br><br>👨‍💻 Portfolio : https://github.com/Nitheesh-mb<br><br>💬 Ask me about Java, Spring Boot, React.js, Node.js, REST APIs, MySQL, MongoDB<br><br>📫 Reach me at : nitheeshgowda75@gmail.com
+👨‍💻 Portfolio : https://github.com/Nitheesh-mb<br><br>💬 Ask me about Java, Spring Boot, React.js, Node.js, REST APIs, MySQL, MongoDB<br><br>📫 Reach me at : nitheeshgowda75@gmail.com
 
 
 ## 🌐 Socials:
