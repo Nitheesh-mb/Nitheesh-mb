@@ -16,7 +16,7 @@
 <h2 align="center">📅 Contribution Calendar</h2>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/Nitheesh-mb" alt="GitHub Contribution Chart" />
+  <img src="https://ghchart.rshah.org/Nitheesh-mb" alt="GitHub Contribution Chart" />
 </p>
 
 # 💻 Tech Stack:
