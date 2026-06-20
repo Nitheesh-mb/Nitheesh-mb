@@ -12,16 +12,11 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nitheesh_makkatty/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitheesh-mb/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nitheeshgowda75@gmail.com) 
 
-[![Nitheesh's github activity](https://github-contributor-stats.vercel.app/api?username=Nitheesh-mb&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/Nitheesh-mb)
-
 ## 📅 Contribution Calendar
-
-![GitHub Contribution Grid](https://ghchart.rshah.org/Nitheesh-mb)
-
 <h2 align="center">📅 Contribution Calendar</h2>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/Nitheesh-mb" alt="GitHub Contribution Chart" />
+  <img src="https://ghchart.rshah.org/409ba5/Nitheesh-mb" alt="GitHub Contribution Chart" />
 </p>
 
 # 💻 Tech Stack:
