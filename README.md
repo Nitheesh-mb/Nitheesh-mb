@@ -1,4 +1,4 @@
-<p align="left"> <img src="Nitheesh_MB_NeonGlow.gif" alt="Nitheesh m b" /> </p>
+<p align="left"> <img src="Nitheesh M B.gif" alt="Nitheesh m b" /> </p>
 <h1 align="center">Hi 👋, I'm Nitheesh M B</h1>
 <h3 align="center">💻 Aspiring Software Developer passionate about building scalable and impactful applications.</h3>
 <h3 align="center">🚀 Currently exploring Backend Development, Microservices, Cloud Technologies, and GenAI Technologies.</h3>
