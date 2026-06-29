@@ -1,105 +1,180 @@
 <p align="center">
-  <img src="Nitheesh M B.gif" width="100%" alt="Nitheesh M B Banner"/>
+  <img src="Nitheesh M B.gif" width="100%" alt="Banner"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm NITHEESH M B</h1>
+<h1 align="center">Hi 👋, I'm Nitheesh M B</h1>
 
 <h3 align="center">
-💻 Aspiring Software Developer passionate about building scalable and impactful applications.
+Aspiring Software Developer | Java Backend Developer | Spring Boot Developer
 </h3>
 
-<h3 align="center">
-🚀 Currently exploring Backend Development, Microservices, Cloud Technologies, and GenAI Technologies.
-</h3>
+<p align="center">
 
-<h3 align="center">
-💡 I enjoy learning new technologies, solving challenging problems, and building innovative solutions that create real-world impact.
-</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=850&lines=Java+Backend+Developer;Spring+Boot+Enthusiast;Full+Stack+Developer;Backend+%7C+REST+API+%7C+Cloud;Always+Learning+New+Technologies" />
 
-<br>
+</p>
+
+---
 
 # 💫 About Me
 
-👨‍💻 **Portfolio:**  
-https://nitheesh-mb.vercel.app/
+💻 Aspiring Software Developer passionate about building scalable and impactful applications.
 
-💬 **Ask me about:**  
-Java • Spring Boot • React.js • Node.js • REST APIs • MySQL • MongoDB
+🚀 Currently learning
 
-📫 **Reach me at:**  
-**nitheeshgowda75@gmail.com**
+- Spring Security
+- Microservices
+- Docker
+- Azure Cloud
+- GenAI
+
+💬 Ask me about
+
+- Java
+- Spring Boot
+- React.js
+- Node.js
+- REST APIs
+- MySQL
+- MongoDB
+
+🌐 Portfolio
+
+https://nitheesh-mb.vercel.app
+
+📧 Email
+
+nitheeshgowda75@gmail.com
 
 ---
 
-# 🌐 Socials
+# 🌐 Connect With Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nitheesh_makkatty/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitheesh-mb/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nitheeshgowda75@gmail.com)
+<p align="left">
 
----
+<a href="https://www.linkedin.com/in/nitheesh-mb">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 
-# 📈 GitHub Activity
+<a href="mailto:nitheeshgowda75@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitheesh-mb&theme=tokyo-night&hide_border=true"/>
+<a href="https://www.instagram.com/nitheesh_makkatty">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
 </p>
 
 ---
 
 # 💻 Tech Stack
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### Languages
 
-![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+<p>
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c"/>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+</p>
 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+### Frontend
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind"/>
 
-# 📊 GitHub Stats
+</p>
 
-<p align="center">
+### Backend
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nitheesh-mb&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitheesh-mb&layout=compact&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express"/>
+
+</p>
+
+### Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+
+</p>
+
+### Cloud & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=azure,git,github,vercel,render,docker,figma,postman"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🚀 Featured Projects
+
+## 🩸 CivicLine
+
+Emergency Resource Finder
+
+**Tech Stack**
+
+Java • Spring Boot • React • MySQL • REST API
+
+---
+
+## 🤖 AI Code Reviewer
+
+AI Powered Code Review Platform
+
+**Tech Stack**
+
+React • Node.js • Express • MongoDB • Gemini API
+
+---
+
+## 🌱 ArecaBandhu
+
+AI based Arecanut Disease Detection
+
+**Tech Stack**
+
+Python • MobileNetV2 • OpenCV • React Native
+
+---
+
+# 📈 GitHub Activity
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Nitheesh-mb&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitheesh-mb&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
-# 👀 Profile Views
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Nitheesh-mb&theme=tokyonight&no-frame=true&margin-w=15"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Nitheesh-mb/Nitheesh-mb/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 📊 Visitor Count
 
 <p align="center">
 
@@ -109,4 +184,8 @@ Java • Spring Boot • React.js • Node.js • REST APIs • MySQL • MongoD
 
 ---
 
-⭐ Thanks for visiting my profile!
+<h3 align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</h3>
