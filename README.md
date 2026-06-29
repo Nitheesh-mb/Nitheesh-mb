@@ -1,32 +1,256 @@
 <p align="center">
-  <img src="Nitheesh M B.gif" width="100%" alt="Nitheesh M B Banner"/>
+  <img src="Nitheesh M B.gif" width="100%" alt="Banner"/>
 </p>
-<h1 align="center">Hi 👋, I'm NITHEESH M B</h1>
-<h3 align="center">💻 Aspiring Software Developer passionate about building scalable and impactful applications.</h3>
-<h3 align="center">🚀 Currently exploring Backend Development, Microservices, Cloud Technologies, and GenAI Technologies.</h3>
-<h3 align="center">💡 I enjoy learning new technologies, solving challenging problems, and building innovative solutions that create real-world impact.</h3><br>
-<h1># 💫 About Me:</h1>
-👨‍💻 Portfolio : https://nitheesh-mb.vercel.app/<br><br>💬 Ask me about Java, Spring Boot, React.js, Node.js, REST APIs, MySQL, MongoDB<br><br>📫 Reach me at : nitheeshgowda75@gmail.com
 
+<h1 align="center">
+Hi 👋, I'm Nitheesh M B
+</h1>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nitheesh_makkatty/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitheesh-mb/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nitheeshgowda75@gmail.com) 
-
-## 📅 Contribution Calendar :
-<h2 align="center">📅 Contribution Calendar</h2>
+<h3 align="center">
+Aspiring Software Developer | Java Backend Developer | Spring Boot | Full Stack Developer
+</h3>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/Nitheesh-mb" alt="GitHub Contribution Chart" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Software+Developer;Java+%7C+Spring+Boot+Developer;Backend+Development+Enthusiast;Building+Scalable+Applications;Learning+Cloud+%7C+Microservices+%7C+GenAI" />
+
 </p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Nitheesh-mb&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Nitheesh-mb&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nitheesh-mb&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
+
+# 🚀 About Me
+
+- 🎓 Computer Science Engineering Graduate
+
+- 💼 Aspiring Software Developer
+
+- 🌱 Currently learning
+
+  - Spring Security
+  - Microservices
+  - Docker
+  - Kubernetes
+  - Azure Cloud
+  - GenAI
+
+- 💻 Strong interest in
+
+  - Java
+  - Spring Boot
+  - REST APIs
+  - Backend Development
+  - Scalable System Design
+
+- 👨‍💻 Portfolio
+
+  **https://nitheesh-mb.vercel.app**
+
+- 📫 Email
+
+  **nitheeshgowda75@gmail.com**
 
 ---
-[![](https://komarev.com/ghpvc/?username=Nitheesh-mb&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/nitheesh-mb">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:nitheeshgowda75@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://www.instagram.com/nitheesh_makkatty">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp"/>
+
+</p>
+
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind"/>
+
+</p>
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql,mongodb"/>
+
+</p>
+
+### Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=azure,docker,git,github,vercel,render"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🩸 CivicLine
+
+Emergency Resource Finder built using
+
+- Java
+- Spring Boot
+- MySQL
+- React
+- REST APIs
+
+⭐ Features
+
+- Blood Donor Finder
+- Ambulance Services
+- Emergency Requests
+- Authentication
+- Profile Management
+
+---
+
+## 🤖 AI Code Reviewer
+
+AI-powered code review platform
+
+Built using
+
+- React
+- Node.js
+- Express
+- MongoDB
+- Gemini API
+
+Features
+
+- AI Suggestions
+- Authentication
+- Code Review
+- History
+
+---
+
+## 🌱 ArecaBandhu
+
+AI-based disease detection system
+
+- MobileNetV2
+- React Native
+- Python
+- OpenCV
+
+---
+
+# 🏆 Certifications
+
+- IBM Artificial Intelligence
+- Cisco Cybersecurity
+- AWS Cloud Foundations
+- Java Full Stack Internship
+- Microsoft Azure (Upcoming)
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Nitheesh-mb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitheesh-mb&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Nitheesh-mb&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitheesh-mb&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Nitheesh-mb&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📅 Contribution Snake
+
+> ⚠️ Requires GitHub Actions (instructions below).
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Nitheesh-mb/Nitheesh-mb/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 📈 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Nitheesh-mb&style=for-the-badge&color=blue"/>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> "Code is like humor. When you have to explain it, it's bad."
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</h3>
