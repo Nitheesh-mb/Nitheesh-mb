@@ -24,7 +24,7 @@
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nitheesh-mb&show_icons=true&theme=tokyonight&cache_seconds=1800)<br/>
 ![](https://streak-stats.demolab.com/?user=Nitheesh-mb&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nitheesh-mb&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitheesh-mb&layout=compact&theme=tokyonight)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Nitheesh-mb&icon=0&color=0)](https://visitcount.itsvg.in)
