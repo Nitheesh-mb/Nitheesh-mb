@@ -1,5 +1,4 @@
 # 💫 About Me:
-Hi 👋, I'm Nitheesh M B<br><br>💻 Aspiring Software Developer passionate about building scalable and impactful applications.<br><br>🚀 Currently exploring Backend Development, Microservices, Cloud Technologies, and GenAI Technologies.<br><br>💡 I enjoy learning new technologies, solving challenging problems, and building innovative solutions that create real-world impact.<br><br>🌱 I’m currently learning Spring Boot, Microservices, and Cloud Technologies<br><br>👨‍💻 Portfolio : https://github.com/Nitheesh-mb<br><br>💬 Ask me about Java, Spring Boot, React.js, Node.js, REST APIs, MySQL, MongoDB<br><br>📫 Reach me at : nitheeshgowda75@gmail.com
 <p align="center">
   <img src="Nitheesh M B.gif" width="100%" alt="Nitheesh M B Banner"/>
 </p>
