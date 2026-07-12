@@ -1,121 +1,18 @@
-<p align="center">
-  <img src="./Nitheesh M B.gif" alt="Nitheesh M B Banner" width="100%" />
-</p>
+# 💫 About Me:
+Hi 👋, I'm Nitheesh M B<br><br>💻 Aspiring Software Developer passionate about building scalable and impactful applications.<br><br>🚀 Currently exploring Backend Development, Microservices, Cloud Technologies, and GenAI Technologies.<br><br>💡 I enjoy learning new technologies, solving challenging problems, and building innovative solutions that create real-world impact.<br><br>🌱 I’m currently learning Spring Boot, Microservices, and Cloud Technologies<br><br>👨‍💻 Portfolio : https://github.com/Nitheesh-mb<br><br>💬 Ask me about Java, Spring Boot, React.js, Node.js, REST APIs, MySQL, MongoDB<br><br>📫 Reach me at : nitheeshgowda75@gmail.com
 
-<h1 align="center">Hi 👋, I'm Nitheesh M B</h1>
 
-<h3 align="center">
-Aspiring Software Engineer | Java Backend Developer | Spring Boot | React | AI Enthusiast
-</h3>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/nitheesh_makkatty/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nitheesh-mb/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nitheeshgowda75@gmail.com) 
 
-<p align="center">
-Building scalable backend applications, modern web experiences, and AI-powered solutions.
-</p>
-
----
-
-## 🚀 About Me
-
-- 🎓 B.E. Computer Science Engineering, St Joseph Engineering College, Mangaluru
-- 💼 Aspiring Software Engineer passionate about backend development
-- 🌱 Currently learning **Microservices, Docker, Kubernetes, Azure & GenAI**
-- 💬 Ask me about **Java, Spring Boot, React, Node.js, REST APIs, MySQL & MongoDB**
-- 📫 **Email:** **nitheeshgowda75@gmail.com**
-- 🌐 **Portfolio:** https://nitheesh-mb.vercel.app
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Nitheesh-mb&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Nitheesh-mb&theme=codeSTACKr&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nitheesh-mb&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Nitheesh-mb&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/nitheesh-mb/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="https://www.instagram.com/nitheesh_makkatty/" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
-</a>
-
-<a href="mailto:nitheeshgowda75@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-</p>
-
----
-
-## 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,nextjs,js,ts,python,mongodb,mysql,git,github,docker,azure,figma,tailwind,html,css,vscode&perline=10"/>
-
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nitheesh-mb&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitheesh-mb&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Nitheesh-mb&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nitheesh-mb&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nitheesh-mb&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-### 🩸 CivicLine
-Emergency resource platform connecting users with blood donors and ambulance services using Spring Boot, React and MySQL.
-
-### 🤖 AI Code Reviewer
-AI-powered code review platform built with React, Express, MongoDB and Gemini API.
-
-### 🌿 ArecaBandhu
-Mobile application that detects arecanut diseases using MobileNetV2 with up to 98% prediction accuracy.
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Nitheesh-mb&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
-
----
-
-<p align="center">
-
-⭐ Thanks for visiting my profile! ⭐
-
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
